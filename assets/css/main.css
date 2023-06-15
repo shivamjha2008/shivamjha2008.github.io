@@ -532,8 +532,8 @@
             padding: 0;
             display: block;
             position: fixed;
-            border-radius: 40px;
-            box-shadow: #111111;
+            /* border-radius: 1px; */
+            box-shadow: #000000;
             right: 0;
             top: 0;
         }
@@ -2340,10 +2340,10 @@
          ::-moz-selection {
             /* Code for Firefox */
             color: #FF4D79;
-            background: #ffffff;
+            background: black;
         }
         
          ::selection {
             color: #FF4D79;
-            background: #ffffff;
+            background: black;
         }
