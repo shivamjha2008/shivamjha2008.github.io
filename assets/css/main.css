@@ -466,7 +466,8 @@
             margin-top: 10px;
             margin-bottom: 10px;
             box-shadow: 3px 2px -2px #ff4a67;
-            font-family: 'Courier New', Courier, monospace;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            letter-spacing: 2px;
             font-weight: 500;
             line-height: 40px;
             text-transform: uppercase;
